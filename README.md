@@ -35,14 +35,5 @@ This project implements a CLI-based network distributed chat system, allowing mu
 - **Bad Word Checker**: Ensures appropriate language by checking for any inappropriate words in messages.
 - **History Writer**: Records all broadcast messages for future reference.
 
-## Contributors
-- Radoslav Gadzhovski
-- Petya Petrov
-- Ivaylo Yordanov
-- Antony Clark
-
-## Credits
-Project developed as part of coursework for the University of Greenwich.
-
 ## License
 This project is licensed under the MIT License. For more details, see the LICENSE file.
